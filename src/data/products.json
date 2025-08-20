@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "slug": "sneakers-1",
+    "name": "Sneakers 1",
+    "price": 24.99,
+    "image": "./sneakers1.jpg"
+  },
+  {
+    "id": "1",
+    "slug": "sneakers-2",
+    "name": "Sneakers 2",
+    "price": 19.99,
+    "image": "./sneakers2.jpg"
+  },
+  {
+    "id": "1",
+    "slug": "sneakers-3",
+    "name": "Sneakers 3",
+    "price": 59.99,
+    "image": "./sneakers3.jpg"
+  },
+  {
+    "id": "1",
+    "slug": "sneakers-4",
+    "name": "Sneakers 4",
+    "price": 79.99,
+    "image": "./sneakers4.jpg"
+  }
+]
