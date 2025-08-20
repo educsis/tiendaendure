@@ -16,3 +16,16 @@ exports.createPages = async ({ actions }) => {
     defer: true,
   })
 }
+
+exports.createSchemaCustomization = ({ actions }) => {
+  const { createTypes } = actions
+  createTypes(`
+type ProductsJson implements Node {
+image: File @fileByRelativePath
+id: ID!
+slug: String!
+name: String!
+price: Float!
+}
+`)
+}

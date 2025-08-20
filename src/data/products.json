@@ -1,30 +1,86 @@
 [
   {
     "id": "1",
-    "slug": "sneakers-1",
-    "name": "Sneakers 1",
+    "slug": "tenis-chocolate",
+    "name": "Tenis Chocolate",
     "price": 24.99,
-    "image": "./sneakers1.jpg"
+    "image": "./sneaker1.jpg"
   },
   {
-    "id": "1",
-    "slug": "sneakers-2",
-    "name": "Sneakers 2",
+    "id": "2",
+    "slug": "tenis-para-correr",
+    "name": "Tenis para correr",
     "price": 19.99,
-    "image": "./sneakers2.jpg"
+    "image": "./sneaker2.jpg"
   },
   {
-    "id": "1",
-    "slug": "sneakers-3",
-    "name": "Sneakers 3",
+    "id": "3",
+    "slug": "tenis-polo",
+    "name": "Tenis Polo",
     "price": 59.99,
-    "image": "./sneakers3.jpg"
+    "image": "./sneaker3.jpg"
   },
   {
-    "id": "1",
-    "slug": "sneakers-4",
-    "name": "Sneakers 4",
+    "id": "4",
+    "slug": "tenis-chocolate-blanco",
+    "name": "Tenis Chocolate Blanco",
     "price": 79.99,
-    "image": "./sneakers4.jpg"
+    "image": "./sneaker4.jpg"
+  },
+  {
+    "id": "5",
+    "slug": "wilson-pickle-pro",
+    "name": "Wilson Pickle Pro",
+    "price": 279.99,
+    "image": "./sneaker5.jpg"
+  },
+  {
+    "id": "6",
+    "slug": "merrell",
+    "name": "Merrell",
+    "price": 29.99,
+    "image": "./merrel.jpg"
+  },
+  {
+    "id": "7",
+    "slug": "new-balance",
+    "name": "New Balance",
+    "price": 189.99,
+    "image": "./newbalance.jpg"
+  },
+  {
+    "id": "8",
+    "slug": "the-north-face",
+    "name": "The North Face",
+    "price": 99.99,
+    "image": "./thenorthface.jpg"
+  },
+  {
+    "id": "9",
+    "slug": "brooks",
+    "name": "Brooks",
+    "price": 245.99,
+    "image": "./brooks.jpg"
+  },
+  {
+    "id": "10",
+    "slug": "konnos",
+    "name": "Konnos",
+    "price": 79.99,
+    "image": "./konnos.jpg"
+  },
+  {
+    "id": "11",
+    "slug": "salomon",
+    "name": "Salomon",
+    "price": 729.99,
+    "image": "./salomon.jpg"
+  },
+  {
+    "id": "12",
+    "slug": "picolinos",
+    "name": "Picolinos",
+    "price": 79.99,
+    "image": "./picolinos.jpg"
   }
 ]
